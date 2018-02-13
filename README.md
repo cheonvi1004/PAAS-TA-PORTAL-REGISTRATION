@@ -1,7 +1,7 @@
 # PAAS-TA-PORTAL-REGISTRATION
 
 ## 버전 정보
-Portal v2.0의 Eureka 서비스 최종 버전이다.
+Portal v1.0의 Eureka 서비스 최종 버전이다.
 
 
 
